@@ -17,6 +17,5 @@ This repository documents the exploration of **LoRA (Low-Rank Adaptation)** for 
 ## Purpose:
 This repository is an exploration of the latest AI techniques, focusing on creating personalized AI-generated images and experimenting with various fine-tuning and generative approaches. The goal was to explore the integration of different AI models and platforms to achieve creative results.
 
-## Installation:
-Instructions for setting up the necessary environment and dependencies for running this exploration will be provided here.
+
 
